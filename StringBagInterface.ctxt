@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=element
+comment0.target=void\ insert(java.lang.String)
+comment1.params=
+comment1.target=boolean\ isFull()
+comment10.params=element
+comment10.target=int\ deleteAll(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ remove()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=element
+comment7.target=int\ howMany(java.lang.String)
+comment8.params=element
+comment8.target=boolean\ uniqInsert(java.lang.String)
+comment9.params=element
+comment9.target=boolean\ delete(java.lang.String)
+numComments=12
